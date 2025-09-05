@@ -64,10 +64,9 @@ Jaine supports various perpetual swap contracts, with leverage varying based on 
 
 | Asset Type | Examples | Max Leverage |
 |------------|----------|--------------|
-| **Major Cryptos** | BTC, ETH | 20x |
-| **Large Caps** | SOL, AVAX | 15x |
-| **Mid Caps** | Various | 10x |
-| **High Risk** | New listings | 5x |
+| **Major Cryptos** | BTC, ETH | 5x |
+| **Large Caps** | SOL, AVAX | 3x |
+| **New Listings and Others** | Various | 2x |
 
 *Asset listings are determined by the executive management team based on liquidity and risk assessment.*
 
