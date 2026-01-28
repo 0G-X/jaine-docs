@@ -83,7 +83,7 @@ const config: Config = {
 				//   label: 'Documentation',
 				// },
 				{
-					href: "https://test.jaine.app",
+					href: "https://docs.jaine.app",
 					label: "Launch App",
 					position: "right",
 					className: "header-launch-link",
@@ -107,7 +107,7 @@ const config: Config = {
 						},
 						{
 							label: "Testnet App",
-							href: "https://test.jaine.app",
+							href: "https://galileo.jaine.app/",
 						},
 					],
 				},
