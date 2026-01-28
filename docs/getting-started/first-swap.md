@@ -213,7 +213,7 @@ After mastering basic swaps:
 | Level | Activity | Description |
 |-------|----------|-------------|
 | **Intermediate** | [Provide Liquidity](../liquidity/add-liquidity) | Earn trading fees |
-| **Advanced** | [Perpetual Trading](../perps/what-are-perps) | Trade with leverage |
+| **Advanced** | Perpetual Trading | Coming Soon |
 | **Expert** | [LP Strategies](../liquidity/lp-strategies) | Optimize returns |
 
 ## Quick Reference

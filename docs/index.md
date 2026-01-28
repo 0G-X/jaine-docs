@@ -87,7 +87,7 @@ Trade tokens directly with instant settlement. Learn about [token swaps](./tradi
 Provide liquidity and earn fees from trading activity. Explore [adding liquidity](./liquidity/add-liquidity), [concentrated liquidity](./liquidity/concentrated-liquidity), and [impermanent loss](./liquidity/impermanent-loss).
 
 ### Perpetuals
-*Coming Soon* - Trade with leverage up to 100x. Discover [perpetual swaps](./perps/what-are-perps), [leverage trading](./perps/leverage-margin), and [funding rates](./perps/funding-rates).
+*Coming Soon* - Trade with leverage up to 100x. Advanced trading features will be available soon.
 
 
 ## Community & Support

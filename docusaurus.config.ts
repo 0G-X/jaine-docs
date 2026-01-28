@@ -107,10 +107,6 @@ const config: Config = {
               to: '/',
             },
             {
-              label: 'Perpetuals',
-              to: '/perps/what-are-perps',
-            },
-            {
               label: 'Testnet App',
               href: 'https://test.jaine.app',
             },

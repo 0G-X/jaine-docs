@@ -142,7 +142,7 @@ After receiving your testnet tokens:
 |--------|-------------|------|
 | **First Swap** | Learn basic trading | [Make your first swap](./first-swap) |
 | **Add Liquidity** | Become an LP | [Provide liquidity](../liquidity/add-liquidity) |
-| **Advanced Trading** | Explore perpetuals | [Try perpetual trading](../perps/what-are-perps) |
+| **Advanced Trading** | Explore perpetuals | Coming Soon |
 
 ## Support
 

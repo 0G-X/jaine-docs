@@ -96,43 +96,8 @@ const sidebars: SidebarsConfig = {
       items: [
         {
           type: 'doc',
-          id: 'perps/what-are-perps',
-          label: 'Perpetual Swaps',
-        },
-        {
-          type: 'doc',
-          id: 'perps/leverage-margin',
-          label: 'Leverage Trading',
-        },
-        {
-          type: 'doc',
-          id: 'perps/mark-price',
-          label: 'Mark Price & Funding',
-        },
-        {
-          type: 'doc',
-          id: 'perps/funding-rates',
-          label: 'Funding Rates',
-        },
-        {
-          type: 'doc',
-          id: 'perps/liquidations',
-          label: 'Liquidation System',
-        },
-        {
-          type: 'doc',
-          id: 'perps/how-to-trade',
-          label: 'Advanced Order Types',
-        },
-        {
-          type: 'doc',
           id: 'trading/multi-hop-swaps',
           label: 'Multi-Hop Swaps',
-        },
-        {
-          type: 'doc',
-          id: 'trading/trading-strategies',
-          label: 'Trading Strategies',
         },
         {
           type: 'doc',
@@ -156,38 +121,7 @@ const sidebars: SidebarsConfig = {
         },
       ],
     },
-    {
-      type: 'category',
-      label: 'Rewards & Growth',
-      collapsed: true,
-      items: [
-        {
-          type: 'doc',
-          id: 'rewards/overview',
-          label: 'Points System',
-        },
-        {
-          type: 'doc',
-          id: 'rewards/referral-program',
-          label: 'Referral Program',
-        },
-        {
-          type: 'doc',
-          id: 'rewards/liquidity-mining',
-          label: 'Community Events',
-        },
-        {
-          type: 'doc',
-          id: 'rewards/staking',
-          label: 'Staking Rewards',
-        },
-        {
-          type: 'doc',
-          id: 'rewards/trading-rewards',
-          label: 'Trading Rewards',
-        },
-      ],
-    },
+
     {
       type: 'category',
       label: 'Developer Integration',
